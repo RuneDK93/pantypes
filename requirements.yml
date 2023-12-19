@@ -1,0 +1,12 @@
+name: panvae
+channels:
+  - anaconda
+  - pytorch
+  - defaults
+dependencies:
+  - numpy=1.19
+  - python=3.8.12
+  - pytorch=1.7.1
+  - matplotlib=3.5.1
+  - torchvision=0.8.2
+  - scikit-learn=1.2.0
